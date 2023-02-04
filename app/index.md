@@ -1,7 +1,7 @@
 ---
 homepage: true
 layout: home
-title: A design history for your GOV.UK service
+title: VSiP design history
 description: A permanent record of how your service has developed over time.
 pagination:
   data: collections.post
