@@ -6,5 +6,5 @@ This repository contains research and design decisions from the private beta pha
 
 ## Run
 
-'npm install'
-'npm start'
+`npm install`
+`npm start`
