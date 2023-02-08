@@ -4,7 +4,7 @@
 
 This repository contains research and design decisions from the private beta phase of the visit someone in prison (VSiP) service.
 
-## Run
+## Run locally
 
-`npm install`
+`npm install`  
 `npm start`

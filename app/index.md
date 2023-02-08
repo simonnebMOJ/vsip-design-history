@@ -1,8 +1,8 @@
 ---
 homepage: true
 layout: home
-title: VSiP design history
-description: A permanent record of how your service has developed over time.
+title: Research and design history
+description: A permanent record of how our service has developed over time.
 pagination:
   data: collections.post
   reverse: true
